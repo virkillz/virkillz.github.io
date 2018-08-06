@@ -2,12 +2,12 @@ title: Arif Yuliannur programming blog
 description: > # this means to ignore newlines until "baseurl:"
   Constant learning, and share while at it.
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Arif Yuliannur (virkill) # add your name
+author: Arif Yuliannur # add your name
 author-img: profpic.jpg # add your photo
 about-author: Head of Innovation at Getall Myanmar. Code in elixir, javascript, python, php, and elm. This is my learning blog. # add description
 social-twitter: virkill
