@@ -3,10 +3,12 @@ layout: post
 title: Strategy for learning Elm
 date: 2018-08-04 00:00:00 +0300
 description: Elm have really good potential. The problem is the environtment. While everything around you is javascript, we need a strategy to even learn it.
-img: workflow.jpg # Add image post (optional)
+img: elm.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
+
+If you are dealing a lot with front end web app programming, there is a good chance you will experience [javascript fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4).  
 
 Learning elm is probably not going to happend in a weekend. It probably will take me couple of weeks until I become productive in it. Another problem is to get an interesting project to started with. So this is why starting with a motivation note will keeps reminds me the reason I should keep going.
 
