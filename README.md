@@ -2,4 +2,6 @@
 
 To run locally, install jekyll and run
 
-`jekyll -S`
+`bundle install`
+
+`bundle exec jekyll serve`

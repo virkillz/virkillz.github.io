@@ -3,7 +3,7 @@ layout: post
 title: Randomize pretty color programmatically with elixir.
 date: 2019-02-27 13:32:20 +0300
 description: How to programmatically randomize beautiful compatible color? This is a basic approach but can easily extended once the concept is grasped. The implementation is written in elixir but can be applied in any language.
-img: phoenix.png 
+img: colors.jpg 
 fig-caption: 
 tags: [elixir, phoenix]
 ---

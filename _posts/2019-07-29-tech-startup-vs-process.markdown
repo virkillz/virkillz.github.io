@@ -3,7 +3,7 @@ layout: post
 title:  "Tech Startup vs Process"
 date:   2019-07-29 00:18:23 +0700
 description: So generally its a good idea to grow a skepticism every time a new process is introduced. We can also grow several strategies around it to make the process less necessary.
-img: phoenix.png 
+img: process.jpeg 
 fig-caption: 
 tags: [elixir, phoenix]
 ---
